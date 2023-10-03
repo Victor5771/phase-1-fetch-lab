@@ -110,3 +110,4 @@ the world is your oyster!
 [json method]: https://developer.mozilla.org/en-US/docs/Web/API/Response/json
 [response interface]: https://developer.mozilla.org/en-US/docs/Web/API/Response
 [fetch]: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+  html
